@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "paper-ui",
+    "slug": "paper-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
